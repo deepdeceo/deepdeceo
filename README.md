@@ -14,7 +14,7 @@
 - 🌱 I’m learning: **Inertia.js, DevOps, SEO for Devs**
 - ⚡ Fun fact: I can code all night with a cup of tea! ☕
 - 📫 Contact: [deepdeceo@gmail.com](mailto:deepdeceo@gmail.com)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 🌐 Portfolio: [deepde.com](https:/deepde.com)
 
 ---
 
