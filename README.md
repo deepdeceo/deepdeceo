@@ -65,10 +65,10 @@
 ### 💻 Dev Card (daily.dev)
 
 <p align="center">
-  <img src="https://api.daily.dev/devcards/YOUR-DAILYDEV-USERNAME.png" width="300" alt="deepdeceo's Dev Card"/>
+ <a href="https://app.daily.dev/deepdedeveloper"><img src="https://api.daily.dev/devcards/v2/SqMynEJBEydr05hY5E8jA.png?r=zbo" width="356" alt="Md Rahman Miah's Dev Card"/></a>
 </p>
 
-> 🔧 Replace `YOUR-DAILYDEV-USERNAME` with your daily.dev username after signup.
+> 
 
 ---
 
